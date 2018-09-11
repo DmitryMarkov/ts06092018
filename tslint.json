@@ -137,7 +137,7 @@
       "single"
     ],
     "semicolon": [
-      true,
+      false,
       "always",
       "ignore-bound-class-methods"
     ],
